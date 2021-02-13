@@ -1,0 +1,9 @@
+.ghc*
+.stack-work/
+dist-docs
+dist-newstyle
+result
+stack.yaml.lock
+*~
+*.yaml.1s
+*.yaml.result
